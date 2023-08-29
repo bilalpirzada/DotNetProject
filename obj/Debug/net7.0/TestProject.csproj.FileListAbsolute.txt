@@ -1,0 +1,14 @@
+D:\Dot Net\CsharpProjects\TestProject\bin\Debug\net7.0\TestProject.exe
+D:\Dot Net\CsharpProjects\TestProject\bin\Debug\net7.0\TestProject.deps.json
+D:\Dot Net\CsharpProjects\TestProject\bin\Debug\net7.0\TestProject.runtimeconfig.json
+D:\Dot Net\CsharpProjects\TestProject\bin\Debug\net7.0\TestProject.dll
+D:\Dot Net\CsharpProjects\TestProject\bin\Debug\net7.0\TestProject.pdb
+D:\Dot Net\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot Net\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.AssemblyInfoInputs.cache
+D:\Dot Net\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.AssemblyInfo.cs
+D:\Dot Net\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.csproj.CoreCompileInputs.cache
+D:\Dot Net\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.dll
+D:\Dot Net\CsharpProjects\TestProject\obj\Debug\net7.0\refint\TestProject.dll
+D:\Dot Net\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.pdb
+D:\Dot Net\CsharpProjects\TestProject\obj\Debug\net7.0\TestProject.genruntimeconfig.cache
+D:\Dot Net\CsharpProjects\TestProject\obj\Debug\net7.0\ref\TestProject.dll
